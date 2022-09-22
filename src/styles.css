@@ -1,0 +1,89 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+ background-image:  url("https://image.shutterstock.com/image-photo/abstract-blurred-empty-college-library-260nw-1162616722.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+
+}
+.ImagenFondo{
+  width: 50%;
+  height: 50%;
+
+}
+
+
+
+
+.DivImg{
+  align-items: center;
+}
+
+.error-input{
+  background-color: rgb(255, 174, 0);
+  }
+
+
+body{
+  background-color: rgb(198, 255, 190);
+}
+
+
+a{
+  color: black;
+}
+
+
+
+#Idbreadcrumbs1 li {
+
+/* Los elementos se colocan uno al lado del otro*/
+  display:inline;
+/*Estable cel espacio de relleno*/
+  padding:10px;
+  color:white
+}
+
+
+
+#idbreadcrumbs1 a {
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  width: 80%;
+  margin: auto;
+  align-content: initial;
+  font-size: 1em;
+
+
+}
+div.encabezado {
+  text-align: center;
+  background-color: black;
+}
+
+div.encabezado h1 {
+  color: aliceblue;
+}
+
+.EstiloContacto {
+  color: white;
+  background-color: black;
+  align-content: center;
+  align-items: center;
+  text-align: left;
+  opacity: 90%;
+  border-radius: 1% 1%;
+}
+
+.Controls {
+  color: black;
+  width: 100%;
+  background: white;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  margin-top:12px;
+  border: 1px solid white;
+  font-family: 'Arial Narrow';
+  font-size: 18px;
+}
